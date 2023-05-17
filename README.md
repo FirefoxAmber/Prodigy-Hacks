@@ -6,4 +6,4 @@
 ## [Unlimited Spins](https://github.com/FirefoxAmber/Prodigy-Hacks/blob/main/Unlimited%20Spins)
 ## [Unlock All Items](https://github.com/FirefoxAmber/Prodigy-Hacks/blob/main/Unlock%20items)
 ## [Walk Anywhere](https://github.com/FirefoxAmber/Prodigy-Hacks/blob/main/Walk%20anywhere)
-***Don't blame me if you get banned.***
+***I am not responsible for any actions done with this code.***
